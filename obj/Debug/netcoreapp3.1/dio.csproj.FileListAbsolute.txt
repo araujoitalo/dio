@@ -1,0 +1,13 @@
+/home/automacao/Documentos/dio/bin/Debug/netcoreapp3.1/dio
+/home/automacao/Documentos/dio/bin/Debug/netcoreapp3.1/dio.deps.json
+/home/automacao/Documentos/dio/bin/Debug/netcoreapp3.1/dio.runtimeconfig.json
+/home/automacao/Documentos/dio/bin/Debug/netcoreapp3.1/dio.runtimeconfig.dev.json
+/home/automacao/Documentos/dio/bin/Debug/netcoreapp3.1/dio.dll
+/home/automacao/Documentos/dio/bin/Debug/netcoreapp3.1/dio.pdb
+/home/automacao/Documentos/dio/obj/Debug/netcoreapp3.1/dio.csprojAssemblyReference.cache
+/home/automacao/Documentos/dio/obj/Debug/netcoreapp3.1/dio.AssemblyInfoInputs.cache
+/home/automacao/Documentos/dio/obj/Debug/netcoreapp3.1/dio.AssemblyInfo.cs
+/home/automacao/Documentos/dio/obj/Debug/netcoreapp3.1/dio.csproj.CoreCompileInputs.cache
+/home/automacao/Documentos/dio/obj/Debug/netcoreapp3.1/dio.dll
+/home/automacao/Documentos/dio/obj/Debug/netcoreapp3.1/dio.pdb
+/home/automacao/Documentos/dio/obj/Debug/netcoreapp3.1/dio.genruntimeconfig.cache
